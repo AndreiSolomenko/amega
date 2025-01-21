@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24864aa3.css",
+    "main.js": "/static/js/main.9e6c2394.js",
+    "static/js/453.83ce95ed.chunk.js": "/static/js/453.83ce95ed.chunk.js",
+    "static/media/bitmap.png": "/static/media/bitmap.a24225205140a5ca4330.png",
+    "static/media/background-min.png": "/static/media/background-min.234c4839ab7cba61122d.png",
+    "static/media/background-mobile.png": "/static/media/background-mobile.4b2167f122b605190f34.png",
+    "static/media/messengers.png": "/static/media/messengers.22d266f47e2d5d2120df.png",
+    "static/media/schedule.png": "/static/media/schedule.4db03827644a0e1b0a15.png",
+    "static/media/address.png": "/static/media/address.0e812ef1bb51979bb3be.png",
+    "static/media/mail.png": "/static/media/mail.95a3cabccfc913e1797b.png",
+    "static/media/logo.png": "/static/media/logo.28d5722986023cb47ed3.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.24864aa3.css.map": "/static/css/main.24864aa3.css.map",
+    "main.9e6c2394.js.map": "/static/js/main.9e6c2394.js.map",
+    "453.83ce95ed.chunk.js.map": "/static/js/453.83ce95ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24864aa3.css",
+    "static/js/main.9e6c2394.js"
+  ]
+}
